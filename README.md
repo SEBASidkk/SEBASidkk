@@ -28,8 +28,3 @@
 <img src="https://streak-stats.demolab.com?user=SEBAsidkk&theme=dark&hide_border=true" alt="SEBAsidkk's GitHub Stats" height="170" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sebastian" height="30" width="40" /></a>
-  <a href="mailto:tuemail@ejemplo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="tuemail@ejemplo.com" height="30" width="40" /></a>
-</p>
