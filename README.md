@@ -4,11 +4,6 @@
 </p>
 
 <h3 align="center">🚀 Software Developer passionate about building digital solutions</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEBAsidkk/SEBAsidkk/output/pacman-contribution-graph.svg" alt="Pacman Animation" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SEBAsidkk&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
