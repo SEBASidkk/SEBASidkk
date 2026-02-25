@@ -5,7 +5,15 @@
 
 <h3 align="center">🚀 Software Developer passionate about building digital solutions</h3>
 
-- 🔭 I’m currently working on **Ez-eat**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEBAsidkk/SEBAsidkk/output/pacman-contribution-graph.svg" alt="Pacman Animation" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEBAsidkk&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+-  telescope 🔭 I’m currently working on **Ez-eat**
 - 🌱 I’m constantly learning new technologies in the Web and Mobile ecosystem.
 - 💬 Ask me about **Angular, React, or Python**
 
@@ -22,9 +30,15 @@
 
 ---
 
-### 📊 Stats
+### 📊 Level & Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SEBAsidkk&theme=dark&hide_border=true" alt="SEBAsidkk's GitHub Stats" height="170" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=dark">
+    <img alt="Sebastian's GitHub Level" src="https://awesome-github-stats.azurewebsites.net/user-stats/SEBASidkk?cardType=level&theme=dark" />
+  </a>
 </p>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&fontFamily=&preferLogin=false">    <img  alt="SEBASidkk's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SEBASidkk?cardType=level&theme=dark&fontFamily=&preferLogin=false" />  </a>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/TU_USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:tuemail@ejemplo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+</p>
