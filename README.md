@@ -24,7 +24,7 @@
 
 ### 📊 Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEBAsidkk&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="SEBAsidkk's GitHub Stats" height="170" />
 <img src="https://streak-stats.demolab.com?user=SEBAsidkk&theme=dark&hide_border=true" alt="SEBAsidkk's GitHub Stats" height="170" />
 </p>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&fontFamily=&preferLogin=false">    <img  alt="SEBASidkk's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SEBASidkk?cardType=level&theme=dark&fontFamily=&preferLogin=false" />  </a>
 
